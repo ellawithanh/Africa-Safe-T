@@ -1,0 +1,73 @@
+/* styles.css */
+
+/* Apply styles to elements */
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+    font-weight: 600;
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 700px;
+}
+
+td {
+    padding: 0;
+}
+
+span.name {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #004379;
+    font-weight: 700;
+}
+
+span.position {
+    font-size: 12px;
+    font-style: italic;
+    color: #777777;
+}
+
+hr {
+    border: dashed 0.5px #bbbbba;}
+
+span.tel {
+    font-size: 12px;
+    color: #777777;
+}
+
+span.web {
+    font-size: 12px;
+    color: #777777;
+    text-decoration: none !important;}
+
+span.info {
+    font-size: 12px;
+    color: #B6BBC0;
+    line-height: 12px;}
+
+span.disclaimer {
+    font-size: 9px;
+    color: #004379;
+    line-height: 5px;
+    text-align: left;}
+
+td.disclaimer {
+    line-height: 14px;
+    padding: 15px 20px 20px 25px;
+    width: 700px;
+}
+
+table.footer {
+    background-color: #F2F2F2;
+    width: 700px;
+}
+
